@@ -1,6 +1,8 @@
-## Fala pessoas, eu sou o André Canton!
+## 🙋Olá galera! Eu sou o André, amante de tecnologia e áreas de exatas!💻 🔢
 
-Tenho 17 anos, atualmente cursando o 3º ano do Ensino Médio. No atual momento estou estudando desenvolvimento web, focando em **HTML, CSS e JavaScript**, pretendo focar em **React, React Native e Node** para desenvolver como programador fullstack nestas tecnologias.
+📚 Atualmente finalizando o Ensino Médio e paralelamente participando do Projeto #TeuFuturo da IMED, que foca em hard skills com HTML, CSS, JS e React, mas também busca desenvolver soft skills.
+
+🚀Como tenho interesse em mais de uma área no meio da tecnologia, vou seguir o conceito de desenvolvedor em "T", visando estimular mais a criatividade, autonomia, adaptabilidade e ter sempre um leque de oportunidades.
 ##
 
  <div>

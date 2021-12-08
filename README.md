@@ -5,12 +5,10 @@
 🚀Como tenho interesse em mais de uma área no meio da tecnologia, vou seguir o conceito de desenvolvedor em "T", visando estimular mais a criatividade, autonomia, adaptabilidade e ter sempre um leque de oportunidades.
 ##
 
- <div>
-  <a href="https://github.com/dedecanton">
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dedecanton&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
-   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedecanton&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+![Dede's GitHub stats](https://github-readme-stats.vercel.app/api?username=dedecanton&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dedecanton&theme=dracula&layout=compact)
+
 
 
 <div style="display: inline_block"><br>

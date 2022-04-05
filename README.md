@@ -1,6 +1,6 @@
 ## 🙋Olá galera! Eu sou o André, amante de tecnologia e áreas de exatas!💻 🔢
 
-📚 Atualmente finalizando o Ensino Médio e paralelamente participando do Projeto #TeuFuturo da IMED, que foca em hard skills com HTML, CSS, JS e React, mas também busca desenvolver soft skills.
+📚 Atualmente acabei de finalizar o Ensino e Médio e o Projeto #TeuFuturo da IMED,que foca em hard skills com HTML, CSS, JS e React, mas também busca desenvolver soft skills.
 
 🚀Como tenho interesse em mais de uma área no meio da tecnologia, vou seguir o conceito de desenvolvedor em "T", visando estimular mais a criatividade, autonomia, adaptabilidade e ter sempre um leque de oportunidades.
 ##

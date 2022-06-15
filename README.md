@@ -1,8 +1,16 @@
-## 🙋Olá galera! Eu sou o André, amante de tecnologia e áreas de exatas!💻 🔢
+## Olá galera! Eu sou o André! 
 
-📚 Atualmente acabei de finalizar o Ensino e Médio e o Projeto #TeuFuturo da IMED,que foca em hard skills com HTML, CSS, JS e React, mas também busca desenvolver soft skills.
+💻 Desenvolvedor Front-end com conhecimentos em HTML, CSS, JavaScript, React, NextJS, TailwindCSS, Styled Components, JEST, React Testing Library, dentre outras tecnologias.
 
-🚀Como tenho interesse em mais de uma área no meio da tecnologia, vou seguir o conceito de desenvolvedor em "T", visando estimular mais a criatividade, autonomia, adaptabilidade e ter sempre um leque de oportunidades.
+👤 Me considero principalmente uma pessoa autodidata, com bom trabalho em equipe, disciplinada, dedicada e ambiciosa.
+
+🚀 Tenho interesse em seguir o conceito de desenvolvedor em "T", visando estimular mais a criatividade, autonomia, adaptabilidade e ter sempre um leque de conhecimentos que podem agregar na resolução de problemas.
+
+✅ Quer conhecer um pouco mais do meu trabalho e/ou entrar em contato comigo?
+
+➡️ Linkedin: https://www.linkedin.com/in/andre-canton/
+
+➡️ E-mail: andrecanton18@gmail.com
 ##
 
 ![Dede's GitHub stats](https://github-readme-stats.vercel.app/api?username=dedecanton&show_icons=true&theme=dracula)

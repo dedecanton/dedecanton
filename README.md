@@ -13,8 +13,10 @@
 ➡️ E-mail: andrecanton18@gmail.com
 ##
 
-<a href="https://github.com/dedecanton/certificates" target="_blank">Alguns certificados...</a>
-
+### Links
+- [Certificados](https://github.com/dedecanton/certificates)
+- [Projetos](https://github.com/dedecanton/)
+##
 ![Dede's GitHub stats](https://github-readme-stats.vercel.app/api?username=dedecanton&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dedecanton&theme=dracula&layout=compact)

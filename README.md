@@ -3,6 +3,19 @@
 💻 Tenho 18 anos, sou graduando de Ciência da Computação e atuo como desenvolvedor frontend, tendo como main stack ReactJS, Typescript, React Testing Library, dentre outras ferramentas.
 #
 🚀 Atualmente venho dedicando meu tempo para aprimorar os conhecimentos no eocssistema React por meio de projetos pessoais e/ou cursos, o objetivo no momento é me desenvolver cada vez mais principalmente na parte de testes, arquitetura de software e performance das aplicações.
+
+#
+✅ Quer conhecer um pouco mais do meu trabalho e/ou entrar em contato comigo?
+
+* **Linkedin:** https://www.linkedin.com/in/andre-canton/
+* **E-mail:** andrecanton18@gmail.com
+
+<div>
+<a href="https://instagram.com/dede_canton" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:andrecanton18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/andre-canton" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
 #
 ⚙️ **Algumas techs que tenho conhecimento**
 * HTML
@@ -25,20 +38,8 @@
 
 #
 
-✅ Quer conhecer um pouco mais do meu trabalho e/ou entrar em contato comigo?
-
-* **Linkedin:** https://www.linkedin.com/in/andre-canton/
-* **E-mail:** andrecanton18@gmail.com
-
-<div>
-<a href="https://instagram.com/dede_canton" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:andrecanton18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/andre-canton" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
-##
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dedecanton&show_icons=true&locale=en&layout=compact&theme=dracula" alt="dedecanton" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dedecanton&show_icons=true&locale=en&theme=dracula" alt="dedecanton" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dedecanton&show_icons=true&locale=en&theme=dracula" alt="dedecanton" /></p>
 
   

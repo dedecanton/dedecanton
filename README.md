@@ -1,6 +1,6 @@
 <h1 align='center'>Olá! Eu sou o André! </h1>
 
-💻 Tenho 18 anos, sou graduando de Ciência da Computação e atuo como desenvolvedor frontend, tendo como main stack ReactJS, Typescript, React Testing Library, dentre outras ferramentas.
+💻 Graduando de Ciência da Computação e atuo como desenvolvedor frontend, tendo como main stack ReactJS, Typescript, React Testing Library, dentre outras ferramentas.
 #
 🚀 Atualmente venho dedicando meu tempo para aprimorar os conhecimentos no eocssistema React por meio de projetos pessoais e/ou cursos, o objetivo no momento é me desenvolver cada vez mais principalmente na parte de testes, arquitetura de software e performance das aplicações.
 
